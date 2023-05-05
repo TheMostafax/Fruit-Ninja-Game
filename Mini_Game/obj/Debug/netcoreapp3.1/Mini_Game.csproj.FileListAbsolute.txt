@@ -1,0 +1,16 @@
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\bin\Debug\netcoreapp3.1\Mini_Game.exe
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\bin\Debug\netcoreapp3.1\Mini_Game.deps.json
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\bin\Debug\netcoreapp3.1\Mini_Game.runtimeconfig.json
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\bin\Debug\netcoreapp3.1\Mini_Game.runtimeconfig.dev.json
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\bin\Debug\netcoreapp3.1\Mini_Game.dll
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\bin\Debug\netcoreapp3.1\Mini_Game.pdb
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.csproj.AssemblyReference.cache
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.csproj.GenerateResource.cache
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.AssemblyInfoInputs.cache
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.AssemblyInfo.cs
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.dll
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.pdb
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.genruntimeconfig.cache
+C:\Users\Mostafa Hassan\source\repos\Mini_Game\Mini_Game\obj\Debug\netcoreapp3.1\Mini_Game.BK.resources
